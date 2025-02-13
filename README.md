@@ -4,10 +4,13 @@ This project is intended to answer the following questions:
 1.	What are the common strong and weak areas that contribute to the SPI of those countries?
 2.	What is the trend of each area over the observed period of these interesting countries?
 3.	Is the SPI score influenced by other development indicators (such as GDP per capita, Government Effectiveness, and the Human Capital Index (HCI)), and population size? What is its relationship?
-4.	If we incorporate the SPI score into the above development indicators, will it be any classifiable group we can observe?
+
 
 The motivation of this project is to identify the area that needs a specific focus area to accelerate and use the data at its full potential. By doing so, we aim to uncover the strengths and weaknesses of their capabilities. To achieve this objective,  Data exploratory analysis and visualization are used to answer the following questions.
 
 This project aims to examine and explore specific areas of focus to enhance the statistical capacity of poor nations, leveraging The World Bank's Statistical Performance Indicators (SPI) dataset using R program, specifically the R shiny dashboard.
+
+## Dashboard  
+🔗 [View Live Dashboard](https://chandarakhvan.shinyapps.io/SPI_dashboard/)
 
 Note: The raw dataset are available to download publicly on World Bank website. This visualization project do not include the data cleaning process. The data presented in this project are already cleaned and created for this specific project only. 
