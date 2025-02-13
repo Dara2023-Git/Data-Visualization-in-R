@@ -10,7 +10,21 @@ The motivation of this project is to identify the area that needs a specific foc
 
 This project aims to examine and explore specific areas of focus to enhance the statistical capacity of poor nations, leveraging The World Bank's Statistical Performance Indicators (SPI) dataset using R program, specifically the R shiny dashboard.
 
+## 📊 Data Sources  
+This project uses the following datasets:  
+
+1. **[Statistical Performance Indicators (SPI) Dataset](https://datacatalog.worldbank.org/search/dataset/0037996/Statistical-Performance-Indicators)**  
+   - Provided by the **World Bank**, this dataset includes statistical performance indicators for various countries.  
+
+2. **[World Development Indicators (WDI) Dataset](https://databank.worldbank.org/source/world-development-indicators)**  
+   - A comprehensive collection of development data, including economic, social, and environmental indicators.  
+
+3. **Geospatial Data from the R Natural Earth Library**  
+   - This dataset provides geospatial data such as country boundaries, landforms, and population distribution.  
+   - More information: [Natural Earth](https://www.naturalearthdata.com/)  
+
 ## Dashboard  
 🔗 [View Live Dashboard](https://chandarakhvan.shinyapps.io/SPI_dashboard/)
 
 Note: The raw dataset are available to download publicly on World Bank website. This visualization project do not include the data cleaning process. The data presented in this project are already cleaned and created for this specific project only. 
+
