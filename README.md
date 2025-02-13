@@ -1,5 +1,9 @@
 # Examine and explore specific areas of focus to enhance the statistical capacity of poor nations, leveraging The World Bank's Statistical Performance Indicators (SPI) dataset.
 
+## Dashboard
+Access the complete project dashboard via the link below:
+🔗 [View Live Dashboard](https://chandarakhvan.shinyapps.io/SPI_dashboard/)
+
 ## 1. Introduction 
 Many developing nations need reliable and accurate statistical data for a diverse range of purposes, such as poverty reduction monitoring and reporting to international aid or donors. However, their limited ability often makes them struggle to produce outstanding and compelling statistical outputs (World Bank, 2021). This project will examine the Word Bank’s Statistical Performance Indicators, to identify what are the strengths and weaknesses of developing countries, those including Low-income, Lower-middle-income, and Upper-middle-income. The insights might assist policymakers, non-profit organizations, and regulators seeking to improve their statistical performance, not only for the above purposes, but also for improving decision-making, driving innovation, and solving complex problems
 
@@ -69,9 +73,6 @@ To effectively communicate the findings and support the identified tasks, we wil
    - Simple Explanations: Include straightforward descriptions and explanations to make the visualizations accessible to a general audience.
    - Dynamic Narratives: Use storytelling elements to guide users through the data, highlighting key insights and findings.
    - Tooltips and Annotations: Offer contextual information and clarify complex statistical concepts as users interact with the visualization.
-
-## Dashboard  
-🔗 [View Live Dashboard](https://chandarakhvan.shinyapps.io/SPI_dashboard/)
 
 Note: The raw dataset are available to download publicly on World Bank website. This visualization project do not include the data cleaning process. The data presented in this project are already cleaned and created for this specific project only. 
 
