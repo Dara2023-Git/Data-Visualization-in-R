@@ -74,5 +74,5 @@ To effectively communicate the findings and support the identified tasks, we wil
    - Dynamic Narratives: Use storytelling elements to guide users through the data, highlighting key insights and findings.
    - Tooltips and Annotations: Offer contextual information and clarify complex statistical concepts as users interact with the visualization.
 
-Note: The raw dataset are available to download publicly on World Bank website. This visualization project do not include the data cleaning process. The data presented in this project are already cleaned and created for this specific project only. 
+**Note:** The raw dataset are available to download publicly on World Bank website. This visualization project do not include the data cleaning process. The data presented in this project are already cleaned and created for this specific project only. 
 
