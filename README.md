@@ -29,28 +29,28 @@ In terms of their structures, those three datasets share a common key, the count
 ## 2.1.2	Determine the Tasks (Why)
 In this visualization project, the specific tasks and objectives for the users include:
 
-#### 1.	Analyze Statistical Performance:
+#### Q1.	Analyze Statistical Performance:
    - Objective: Understand how statistical performance varies across different income brackets.
    - Questions: How do SPI scores compare between high-income, upper-middle-income, lower-middle-income, and low-income countries?
 
-#### 2.	Identify Areas for Improvement:
+#### Q2.	Identify Areas for Improvement:
    - Objective: Pinpoint strengths and weaknesses of each pillar in different income groups.
    - Questions: What are the common strong and weak areas that contribute to the SPI of those countries?
 
-#### 3.	Track Historical Temporal Trends:
+#### Q3.	Track Historical Temporal Trends:
    - Objective: Examine changes in SPI scores and related indicators over time.
    - Questions: What is the trend of each area over the observed period of these interesting countries?
 
-#### 4.	Relationship of SPI with Development Indicators:
+#### Q4.	Relationship of SPI with Development Indicators:
    - Objective: Explore the relationship between SPI scores and development indicators such as GDP per capita, Government Effectiveness, and the Human Capital Index (HCI).
    - Questions: Is the SPI score influenced by other development indicators (such as GDP per capita, Government Effectiveness, and the Human Capital Index (HCI))? What is its relationship?
 
-#### 5.	Highlight Regional Inefficiencies:
+#### Q5.	Highlight Regional Inefficiencies:
    - Objective: Identify regions with notable inefficiencies in data handling and utilization.
    - Questions: Which regions show significant inefficiencies? How can optimizing data utilization in these regions benefit global development?
 ## 2.1.3	Design the Visualization (How)
 To effectively communicate the findings and support the identified tasks, we will choose appropriate visual representation and interaction techniques:
-## 1.	Visual Representations:
+#### 2.1.3.1.	Visual Representations:
    - Violin Plot:  To show the SPI score distribution of the different income brackets.
    - Stacked Bar Charts: To show how each pillar contributes to the overall performance in terms of the percentage of each income country group. This aims to highlight areas of strengths and weaknesses.
    - Tree Plot: To visualize the actual score of each pillar of each income country group.
@@ -59,13 +59,13 @@ To effectively communicate the findings and support the identified tasks, we wil
    - Scatter Plots with regression line: To illustrate the relationship between SPI scores and development indicators such as GDP per capita, Government Effectiveness, and the Human Capital Index (HCI).
    - Choropleth Maps: To display geographical variations in SPI scores and highlight regional inefficiencies based on the quantile range.
 
-## 2.	Interaction Elements:
+#### 2.1.3.2.	Interaction Elements:
    - Hover Tooltips: Provide detailed information on specific data points when users hover over them, offering additional context without cluttering the visualization.
    - Filters and Drop-Down Menus: Allow users to select specific countries, regions, income brackets, and regression lines to customize the view according to their interests.
    - Zoom and Pan: Enable users to explore data in greater detail by zooming into specific regions or indicators.
    - Interactive Legends: Allow users to toggle different indicators or income groups on and off to compare data more easily.
 
-3.	User Guidance:
+#### 2.1.3.3	User Guidance:
    - Simple Explanations: Include straightforward descriptions and explanations to make the visualizations accessible to a general audience.
    - Dynamic Narratives: Use storytelling elements to guide users through the data, highlighting key insights and findings.
    - Tooltips and Annotations: Offer contextual information and clarify complex statistical concepts as users interact with the visualization.
